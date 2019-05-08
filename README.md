@@ -1,1 +1,1 @@
-# Teratimes
+# TeraTimes
